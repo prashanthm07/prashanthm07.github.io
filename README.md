@@ -1,7 +1,7 @@
 # prashanthm07.github.io
 
 - [About Me](#AboutMe)
-- [Blogs](#Blogs)
+- [Blogs](/blogs/home.md)
 - [Projects](#Projects)
 
 
