@@ -1,12 +1,15 @@
-# prashanthm07.github.io
-
 - [About Me](#AboutMe)
 - [Blogs](/blogs/home.md)
 - [Projects](#Projects)
 
 
-## AboutMe
-This is about me, what I do etc
-## Blogs
+# AboutMe
 
-## Projects
+## Hey, I am Prashanth
+
+I am a passionated `engineer`, who loves the `high` feeling when an engineering issue is solved; when some logic/paradigm is finally understood when working on something else altogether. 
+
+
+# Blogs
+
+# Projects
