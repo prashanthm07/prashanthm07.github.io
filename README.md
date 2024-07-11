@@ -1,6 +1,42 @@
---- stylesheet: style.css ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Header Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            background-color: #333;
+            padding: 10px;
+        }
+        .navbar a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <!-- <a href="#home">Home</a> -->
+        <a href="/blogs/home.md">Blogs</a>
+        <a href="/projects/projects.md">Projects</a>
+    </div>
 
-[Blogs](/blogs/home.md)     [Projects](/projects/projects.md)
+</body>
+</html>
+
+<!-- [Blogs](/blogs/home.md)     [Projects](/projects/projects.md) -->
 
 
 ## About Me
