@@ -1,4 +1,5 @@
-## Blogs
+# [Prashanth Mangipudi](/README.md)
+# Blogs
 > These blogs are written to strengthen my understanding and have it documented a single place.
 
 >Table of contents: 
