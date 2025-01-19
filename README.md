@@ -5,16 +5,8 @@
 
 ## About Me
 
-> Hey there! I'm Prashanth, a passionate data enthusiast keen on understanding how the data world works. Curious to learn ever evolving tech and comprehend the problems that each new tool is solving. 
+> Hey there! I'm Prashanth, a passionate engineer.
 
-While I'm inquisitive to explore the tech related to data engineering in particular, I'm equally inclined to dig into general engineering problems and solutions. 
-
-I have professional working experience on the below technologies
-- Programming Languages - Python, Java
-- Big Data Technologies - Spark, Databricks, Hadoop, Yarn
-- Warehouses and Data lakes - S3, Snowflake
-- AWS Cloud Services - 
-- Azure Cloud Services - 
 
 ## Certifications
 
