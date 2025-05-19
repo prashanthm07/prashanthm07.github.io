@@ -3,16 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi! I'm Prashanth, a Full Stack developer passionate about building clean, efficient solutions using Java, Nodejs and cloud technologies. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 💼 Skills
+- Java - Java 8+, Spring Boot, J2EE, Hibernate
+- Node - Node.js, React, Express, Prisma(ORM)
+- Python - Flask, Chalice(AWS Serverless Framework)
+- AWS - S3, Lambda, EC2, VPC, Load Balancer, API Gateway, Dynamodb, Cloudformation, SQS, Cognito
+- Streaming - Apache Kafka
+- Databases - SQL, PostgreSQL, MongoDB
+- Dashboard/viz - Grafana, React-Admin 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### 🎯 Goals
+Currently exploring full-stack development and content creation.

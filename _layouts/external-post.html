@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<article>
+  <h2><a href="{{ page.external_url }}" target="_blank">{{ page.title }}</a></h2>
+  <p><strong>Published on:</strong> {{ page.date | date: "%B %d, %Y" }} ({{ page.platform }})</p>
+  {% if content != "" %}
+    <div>{{ content }}</div>
+  {% endif %}
+</article>
